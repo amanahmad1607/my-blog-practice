@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Build artifacts
+/build
+/dist
