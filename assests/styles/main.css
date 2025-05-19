@@ -2,6 +2,11 @@
 body {
   font-family: sans-serif;
 }
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
 .subscribe-button {
   background-color: #007bff;
   color: white;
@@ -13,3 +18,4 @@ body {
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+
