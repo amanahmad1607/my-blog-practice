@@ -6,6 +6,7 @@ Desktop.ini
 
 # Log files
 *.log
+temp.log
 
 # Temporary files
 *.tmp
